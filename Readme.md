@@ -3,7 +3,7 @@ X4 Asset XML Bulk Modifier:
 
 By: Allectus
 
-Github: https://github.com/A11ectus/X4-Subsystem-Targeting-Orders
+Github: https://github.com/A11ectus/X4_asset_xml_bulk_modifier
 
 Description:
 ============
