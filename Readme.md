@@ -1,4 +1,4 @@
-X$ Asset XML Bulk Modifier:
+X4 Asset XML Bulk Modifier:
 ============
 
 By: Allectus
